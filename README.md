@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://github.com/lahcenassmira/lahcenassmira/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.gif)
 <h1 align="center">Hi 👋, I'm lahcen</h1>
 <h3 align="center">I'm a passionate web developer</h3>
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">

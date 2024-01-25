@@ -27,8 +27,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lahcenassmira"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lahcenassmira" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahcenassmira&show_icons=true&locale=en&layout=compact" alt="lahcenassmira" /></p>
+![lahcen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahcenassmira&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahcenassmira&show_icons=true&locale=en" alt="lahcenassmira" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahcenassmira&" alt="lahcenassmira" /></p>

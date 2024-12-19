@@ -14,9 +14,7 @@
 - 📝 I regularly write articles on [http://lahcen.epizy.com/](http://lahcen.epizy.com/)
 
 - 📫 How to reach me **lahcenassmira@gmail.com**
-## 💖 Support My Work  
-If you like my projects and want to support my work, consider [sponsoring me on GitHub](https://github.com/sponsors/lahcenassmira).  
-Your contributions keep my projects alive and thriving! 🙌  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,9 +24,10 @@ Your contributions keep my projects alive and thriving! 🙌
 <a href="https://medium.com/@lahcenassmira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lahcenassmira" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">💖Support My Work:</h3>
 
-
-<h3 align="left">Support:</h3>
+If you like my projects and want to support my work, consider [sponsoring me on GitHub](https://github.com/sponsors/lahcenassmira).  
+Your contributions keep my projects alive and thriving! 🙌  
 <p><a href="https://www.buymeacoffee.com/lahcenassmira" > <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lahcenassmira" /></a></p><br><br>
                                  <h3 align="center">🏆 GitHub Trophies</h3>
 

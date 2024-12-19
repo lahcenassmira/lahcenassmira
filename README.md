@@ -14,6 +14,9 @@
 - 📝 I regularly write articles on [http://lahcen.epizy.com/](http://lahcen.epizy.com/)
 
 - 📫 How to reach me **lahcenassmira@gmail.com**
+## 💖 Support My Work  
+If you like my projects and want to support my work, consider [sponsoring me on GitHub](https://github.com/sponsors/lahcenassmira).  
+Your contributions keep my projects alive and thriving! 🙌  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

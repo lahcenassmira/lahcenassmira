@@ -67,17 +67,9 @@ If you like my projects and want to support my work:
 </p>
 
 ---
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahcenassmira&show_icons=true&locale=en&layout=compact" alt="lahcenassmira" />
 
-## 📊 GitHub Stats
+<img   src="https://github-readme-stats.vercel.app/api?username=lahcenassmira&show_icons=true&locale=en" alt="lahcenassmira" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahcenassmira&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahcenassmira&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahcenassmira&layout=compact&theme=transparent" />
-</p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lahcenassmira&" alt="lahcenassmira" />
+ 

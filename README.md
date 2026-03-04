@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+## 👋About Me
 
 I’m **Lahcen Assmira**, a **Web Developer & SaaS Builder** passionate about creating scalable, real-world products.
 

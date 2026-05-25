@@ -10,27 +10,27 @@
 
 ---
 
-## 👋About Me
+## About Me
 
 I’m **Lahcen Assmira**, a **Web Developer & SaaS Builder** passionate about creating scalable, real-world products.
 
-- 🚀 Founder & builder of **URLDN** – a free URL shortener SaaS with analytics & QR codes  
-- 📊 Creator of **ChartStud** – an AI-powered data visualization & chart generation platform  
-- 🎬 Working on **ClipDrift** – a domain focused on content, media & short-form distribution  
-- 🧠 Background in **Economics & Data Analysis**
-- 🛠️ I love turning ideas into products people actually use
+-  Founder & builder of **URLDN** – a free URL shortener SaaS with analytics & QR codes  
+-  Creator of **ChartStud** – an AI-powered data visualization & chart generation platform  
+-  Working on **ClipDrift** – a domain focused on content, media & short-form distribution  
+-  Background in **Economics & Data Analysis**
+-  I love turning ideas into products people actually use
 
 ---
 
-###🌐 Portfolio & Links
-- 🌍 Portfolio: **https://lahcenassmira.netlify.app**
-- 👨‍💻 Projects: **https://github.com/lahcenassmira**
-- 📝 Articles: **http://lahcen.eizy.com/**
-- 📫 Contact: **lahcenassmira@gmail.com**
+### Portfolio & Links
+-  Portfolio: **https://lahcenassmira.netlify.app**
+-  Projects: **https://github.com/lahcenassmira**
+-  Articles: **http://lahcen.eizy.com/**
+-  Contact: **lahcenassmira@gmail.com**
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 <p align="left">
 <a href="https://twitter.com/lahcenassmira" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
@@ -38,7 +38,7 @@ I’m **Lahcen Assmira**, a **Web Developer & SaaS Builder** passionate about cr
 <a href="https://linkedin.com/in/lahcen-assmira-a6b583225" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
 </a>
-<a href="https://instagram.com/frontend_html5_css3_js" target="_blank">
+<a href="https://instagram.com/urldn_" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
 </a>
 <a href="https://medium.com/@lahcenassmira" target="_blank">

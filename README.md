@@ -14,8 +14,8 @@
 
 I’m **Lahcen Assmira**, a **Web Developer & SaaS Builder** passionate about creating scalable, real-world products.
 
--  Founder & builder of **URLDN** – a free URL shortener SaaS with analytics & QR codes  
--  Creator of **ChartStud** – an AI-powered data visualization & chart generation platform  
+-  Founder & builder of **URLDN** – an URL shortener SaaS  
+-  Creator of **ChartStud** – an AI-powered marketing analytics platform
 -  Working on **ClipDrift** – a domain focused on content, media & short-form distribution  
 -  Background in **Economics & Data Analysis**
 -  I love turning ideas into products people actually use

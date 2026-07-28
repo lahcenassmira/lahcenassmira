@@ -53,7 +53,7 @@ I’m **Lahcen Assmira**, a **Web Developer & SaaS Builder** passionate about cr
 If you like my projects and want to support my work:
 
 - ⭐ Sponsor me on GitHub  
-- ☕ Buy me a coffee  
+- ☕ Buy me a coffee 
 
 <a href="https://www.buymeacoffee.com/lahcenassmira">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />

@@ -32,7 +32,7 @@ I’m **Lahcen Assmira**, a **Web Developer & SaaS Builder** passionate about cr
 
 ##  Connect With Me
 <p align="left">
-<a href="https://twitter.com/lahcenassmira" target="_blank">
+<a href="https://x.com/lahcen_assmira" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
 </a>
 <a href="https://linkedin.com/in/lahcen-assmira-a6b583225" target="_blank">

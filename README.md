@@ -25,7 +25,7 @@ I’m **Lahcen Assmira**, a **Web Developer & SaaS Builder** passionate about cr
 ### Portfolio
 -  Portfolio: **https://lahcenassmira.netlify.app**
 -  Projects: **https://github.com/lahcenassmira**
--  Articles: **http://lahcen.eizy.com/**
+-  Articles: **https://www.urldn.com/blog**
 -  Contact: **lahcenassmira@gmail.com**
 
 ---

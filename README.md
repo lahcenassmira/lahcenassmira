@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/lahcenassmira/lahcenassmira/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.gif)
+Bn8![MasterHead](https://github.com/lahcenassmira/lahcenassmira/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Burned&weight=900&size=57&duration=4997&pause=1000&center=true&vCenter=true&width=600&height=100&lines=LAHCEN+ASSMIRA;Web+Developer;SaaS+Builder)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+## About 
 
 I’m **Lahcen Assmira**, a **Web Developer & SaaS Builder** passionate about creating scalable, real-world products.
 
